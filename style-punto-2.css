@@ -1,0 +1,28 @@
+
+.banner-section{
+    background-color: brown;
+    height: 150px;
+}
+.content-height{
+    height: 200px;
+    
+}
+.left-menu{
+    background-color: orange;
+}
+.top-menu{
+    background-color: chocolate;
+}
+.main-content{
+    padding: 0px 0px 0px 0px;
+}
+.photo-par{
+    background-color: cornflowerblue;
+
+}
+.photo-impar{
+    background-color: palevioletred;
+}
+footer{
+    background-color: brown;
+}
